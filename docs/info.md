@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It is just a test to try fabricating a chip, special function other than som simple logics applied
 
 ## How to test
 
-Explain how to use your project
+It is just a test to try fabricating a chip, special function other than som simple logics applied, see if the logics actually give the desired output
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+It is just a test to try fabricating a chip, special function other than som simple logics applied, no extra HW
